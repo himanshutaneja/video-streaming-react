@@ -6,8 +6,8 @@
       "id": 1
     },
     {
-      "title": "My Stream",
-      "description": "Created by me",
+      "title": "My Stream patch",
+      "description": "Created by me patch",
       "userId": "103047018882222584447",
       "id": 2
     },
@@ -16,6 +16,17 @@
       "description": "New Stream Created",
       "userId": "103047018882222584447",
       "id": 3
+    },
+    {
+      "title": "Programatic Navigation",
+      "description": "Programatic navigation to navigate between the pages.",
+      "userId": "103047018882222584447",
+      "id": 4
+    },
+    {
+      "title": "Refactored Stream",
+      "description": "After refactoring create stream component",
+      "id": 5
     }
   ]
 }
